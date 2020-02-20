@@ -22,7 +22,7 @@ def birthLottery():
         if again == 'y':
             birthLottery()
         else:
-                sys.exit()
+            sys.exit()
 
 def runLottery():
     while True:
