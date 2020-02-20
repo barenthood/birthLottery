@@ -15,8 +15,8 @@ def birthLottery():
             if result == 3:
                 print('Congratulations! You are officially part of the 1%.')
             else:
-                print('Sorry! You are one of the myriad unlucky ones.')
-            print('Again, y/n?')
+                print('Sorry! You are one of the myriad unlucky.')
+            print('Try Again, y/n?')
             again = input('> ')
             if again == 'y':
                 birthLottery()
