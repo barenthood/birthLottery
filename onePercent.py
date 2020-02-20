@@ -24,7 +24,6 @@ def birthLottery():
         else:
                 sys.exit()
 
-
 def runLottery():
     while True:
         print('Run lottery simulation, y/n?')
