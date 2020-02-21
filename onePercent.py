@@ -35,6 +35,6 @@ def runLottery():
             sys.exit()
         else:
             print('I didn\'t understand that, lets try again.')
-            return
+            continue
 
 runLottery()
